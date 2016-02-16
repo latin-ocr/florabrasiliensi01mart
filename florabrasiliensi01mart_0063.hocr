@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florabrasiliensi01mart_0063.png"; bbox 0 0 2163 3852; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 434 1258 1485 1366">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 434 1258 1485 1366">
+     <span class='ocr_line' id='line_1_1' title="bbox 434 1258 1485 1366; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 434 1304 740 1365; x_wconf 83' lang='lat' dir='ltr'>ORDO</span> <span class='ocrx_word' id='word_1_2' title='bbox 852 1258 1485 1366; x_wconf 72' lang='lat' dir='ltr'><strong>SECUNDUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 213 1516 1691 1667">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 213 1516 1691 1667">
+     <span class='ocr_line' id='line_1_2' title="bbox 213 1516 1691 1667; baseline 0.002 -6"><span class='ocrx_word' id='word_1_3' title='bbox 213 1516 1691 1667; x_wconf 33' lang='lat' dir='ltr'><strong>IA‘ICHENES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 691 1916 1230 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 691 1916 1230 1966">
+     <span class='ocr_line' id='line_1_3' title="bbox 691 1916 1230 1966; baseline 0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 691 1916 1230 1966; x_wconf 81' lang='lat' dir='ltr'>DESCRIPSIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 143 2129 1782 2243">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 143 2129 1782 2243">
+     <span class='ocr_line' id='line_1_4' title="bbox 143 2129 1782 2243; baseline 0.001 -5"><span class='ocrx_word' id='word_1_5' title='bbox 143 2129 751 2239; x_wconf 48' lang='lat' dir='ltr'><strong>FlssANCISCUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 836 2180 1478 2241; x_wconf 80' lang='lat' dir='ltr'>ESGHWEILER</span> <span class='ocrx_word' id='word_1_7' title='bbox 1554 2187 1634 2243; x_wconf 83' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1704 2187 1782 2242; x_wconf 92' lang='lat' dir='ltr'><strong>D.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

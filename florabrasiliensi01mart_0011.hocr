@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florabrasiliensi01mart_0011.png"; bbox 0 0 2163 3852; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 26 1265 1919 1379">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 26 1265 1919 1379">
+     <span class='ocr_line' id='line_1_1' title="bbox 26 1265 1919 1379; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 26 1265 1919 1379; x_wconf 84' lang='lat' dir='ltr'>AGOTYLEDONEAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 751 1584 1240 1604">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 751 1584 1240 1604">
+     <span class='ocr_line' id='line_1_2' title="bbox 751 1584 1240 1604; baseline 0 2248"><span class='ocrx_word' id='word_1_2' title='bbox 751 1584 1240 1604; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 480 1859 1479 1923">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 480 1859 1479 1923">
+     <span class='ocr_line' id='line_1_3' title="bbox 480 1859 1479 1923; baseline -0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 480 1859 830 1921; x_wconf 84' lang='lat' dir='ltr'>ORDO</span> <span class='ocrx_word' id='word_1_4' title='bbox 954 1861 1479 1923; x_wconf 87' lang='lat' dir='ltr'><strong>PRIMUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 264 2143 1687 2255">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 264 2143 1687 2255">
+     <span class='ocr_line' id='line_1_4' title="bbox 264 2143 1687 2255; baseline -0.004 -18"><span class='ocrx_word' id='word_1_5' title='bbox 264 2143 1034 2255; x_wconf 80' lang='lat' dir='ltr'>ALGAE,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1170 2148 1687 2241; x_wconf 67' lang='lat' dir='ltr'>Romu.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
